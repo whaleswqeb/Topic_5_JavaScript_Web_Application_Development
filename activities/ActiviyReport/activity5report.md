@@ -12,6 +12,8 @@
 The Community Resource and Event Management System is a website that helps groups like churches and non-profits manage shared resources and schedule events. Many organizations use spreadsheets, emails or handwritten lists which can cause scheduling conflicts and miscommunication. This system provides a centralized digital solution.
 This activity focuses on building a React application that displays music album information. The project demonstrates fundamental React concepts including components, props, state management with hooks, and event handling.
 
+Code Git Link: https://github.com/whaleswqeb/Topic_5_JavaScript_Web_Application_Development/tree/main/Code
+
 ---
 
 ## Part 1: Music App Initial Setup
